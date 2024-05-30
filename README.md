@@ -13,7 +13,4 @@ Initial setup commands
 9. touch .gitignore - do nej venv/
 10. git commit -m [jmeno prvniho comitu př.: "test"]
 11. git push -u origin master
------------------------------------
 
-- ./manage.py createsuperuser
-- UTF-8 Chars: sh - export PYTHONIOENCODING=utf-8 && python manage.py dumpdata --indent 2 filmy.Movie > fixtures/film.json
